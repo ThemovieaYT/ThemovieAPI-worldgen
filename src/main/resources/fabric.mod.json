@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "themovieapiworldgen",
   "version": "${version}",
 
-  "name": "Example Mod",
+  "name": "ThemovieAPI WorldGen",
   "description": "This is an example description! Tell everyone what your mod is about!",
   "authors": [
     "Me!"
@@ -23,7 +23,7 @@
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "themovieapiworldgen.mixins.com"
   ],
 
   "depends": {
